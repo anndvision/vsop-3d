@@ -1,0 +1,12 @@
+name: vsop-3d
+channels:
+  - defaults
+  - nvidia
+  - pytorch
+dependencies:
+  - pip
+  - black
+  - python=3.10.12
+  - jupyter
+  - pytorch=2.0.0
+  - pytorch-cuda=11.8
