@@ -22,7 +22,7 @@ Thank you for using our work. Please consider citing if you use it in your own r
 
 ```.bib
 @article{jesson2024improved,
-  title={Toward Solving ProcGen Generalization with Frame Stacking, 3D Convolutions, and Scale?},
+  title={Architectural Modifications for Improving Generalization on the ProcGen Benchmark},
   author={Jesson, Andrew and Jiang, Yiding},
   journal={arXiv preprint arXiv:},
   year={2024}
