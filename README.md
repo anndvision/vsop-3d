@@ -1,5 +1,7 @@
 # vsop-3d
 
+![Min-Max Scores](/assets/min-max-scores.png)
+
 ## installation
 
 ```.sh
@@ -22,7 +24,7 @@ Thank you for using our work. Please consider citing if you use it in your own r
 
 ```.bib
 @article{jesson2024improved,
-  title={Architectural Modifications for Improving Generalization on the ProcGen Benchmark},
+  title={Some Architectural Changes for Improving Generalization on the ProcGen Benchmark},
   author={Jesson, Andrew and Jiang, Yiding},
   journal={arXiv preprint arXiv:},
   year={2024}
