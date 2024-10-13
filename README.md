@@ -15,7 +15,7 @@ pip install [-e] .
 ## Run algorithm
 
 ```.sh
-python vsop_3d/vsop_3d_procgen.py --experiment-id my-experiment --seed 0 --job-dir experiments/ --track True --wandb-entity my-entity --env-id starpilot
+python vsop_3d/vsop_3d_procgen.py --experiment-id my-experiment --seed 0 --job-dir experiments/ --track True --wandb-entity [my-entity] --env-id starpilot
 ```
 
 ## Citation
@@ -24,9 +24,9 @@ Thank you for using our work. Please consider citing if you use it in your own r
 
 ```.bib
 @article{jesson2024improved,
-  title={Some Architectural Changes for Improving Generalization on the ProcGen Benchmark},
+  title={Improving Generalization on the ProcGen Benchmark with Simple Architectural Changes and Scale},
   author={Jesson, Andrew and Jiang, Yiding},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:????.?????},
   year={2024}
 }
 ```
